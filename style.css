@@ -1,0 +1,16 @@
+body {
+    color: white;
+    background-color: black;
+}
+
+input{
+    text-align: center;
+    border: px;
+    padding: 10px;
+    font-size: 18px;
+}
+
+input[type="Submit"] {
+    background-color: red;
+    color: white;
+}
